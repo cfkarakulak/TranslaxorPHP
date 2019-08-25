@@ -1,0 +1,24 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+
+#: perfume_templates/404.html:9 perfume_templates/account/email.html:11
+msgid "Bülbülü Öldürmek uzun zamandır okumak istediğim ancak bir türlü bulamadığım bir kitaptı. Bu nedenle birkaç ay önce Sel Yayıncılık’tan çıkmış yeni baskısını görünce hiç düşünmeden aldım kitabı ve okumaya başladım"
+msgstr ""
+
+#: perfume_templates/500.html:18
+msgid "Bülbülü Öldürmek, Harper Lee tarafından 1960’da yazılmış. 1930’ların Alabama’sında geçen bu eserin içinde hayata dair pek çok ipucu bulmak mümkün. "
+msgstr ""
+
+#: perfume_templates/500.html:21
+msgid ""
+"Kitap iki bölümden oluşmakta. Birinci bölümde, Scout ve Jem’in Dill ile tanışması, onunla birlikte geçirdikleri yaz tatili ve sonrasında okulun açılmasıyla başlayan süreç anlatılmakta."
+"İkinci bölümde ise; Scout’un gözünden, haksız yere suçlanan bir zenciyi savunan babası Atticus’un yaşadıklarını, bunun çocuklara nasıl yansıdığını ve Jem’in ergenliğe girişini görüyoruz."
+msgstr ""
+
+#: perfume_templates/account/account-right.html:6
+msgid "Bu aslında hepimizin bildiği basit bir kural ancak uygulama aşamasında çoğu zaman tembellik ediyoruz."
+msgstr ""
