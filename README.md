@@ -8,9 +8,9 @@ Run ```composer install``` to install dependencies
 
 #### Usage
 
-Open up your terminal and paste the code below after following the instructions
--Replace ```http://localhost/translaxor``` with your address (local or remote),
--Change ```{username}``` with your username.
+Open up your terminal and paste the code below after following the instructions<br/>
+* Replace ```http://localhost/translaxor``` with your address (local or remote),
+* Change ```{username}``` with your username.
 
 Ps: you can use the sample source.po file provided.
 
