@@ -21,4 +21,4 @@ curl -X POST -l \
 --output /Users/{username}/Desktop/translations.zip \
 && open /Users/{username}/Desktop/translations.zip \
 && code /Users/{username}/Desktop/translations/.
-``
+```
