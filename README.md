@@ -1,5 +1,5 @@
 ### Translaxor
-Translate PO files to desired language via Google Translate API<br\>
+Translate PO files to desired language via Google Translate API<br/>
 This project is built on top of Slim 3 skeleton
 
 #### Install
